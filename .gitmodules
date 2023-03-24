@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bio3d"]
+	path = bio3d
+	url = https://github.com/cran/bio3d
+	shallow = true
+	registered = true
